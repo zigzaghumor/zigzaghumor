@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [About](https://blog.zhihangzhao.com/about/)
+- [Archives](https://blog.zhihangzhao.com/archives/)
+- [Coupon Collector&#39;s Problem](https://blog.zhihangzhao.com/p/coupon-collector-problem/)
+- [Links](https://blog.zhihangzhao.com/links/)
+- [Search](https://blog.zhihangzhao.com/search/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
